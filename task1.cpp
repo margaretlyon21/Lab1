@@ -63,7 +63,7 @@ int main()
     //identically as those of the sales array. Size is the number
     //of elements in each array. 
 
-    void sualSort(int id[], double sales[], int size){
+    void dualSort(int id[], double sales[], int size){
         int start, maxIndex, tempid;
         double maxValue;
 
